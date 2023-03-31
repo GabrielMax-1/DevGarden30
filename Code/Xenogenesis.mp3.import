@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Xenogenesis.mp3-202abb96461d2766750b667ac8595cb4.mp3str"
+
+[deps]
+
+source_file="res://Xenogenesis.mp3"
+dest_files=[ "res://.import/Xenogenesis.mp3-202abb96461d2766750b667ac8595cb4.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
