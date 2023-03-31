@@ -34,16 +34,16 @@ Added:
 ## The genious who make this
 
 
-Created by: DevMaxD
-Developed by: DevMaxD, Acchhhiiii, marcoyolo2010, Jhon0416
-Assistant developers: Mao Murillo, Jesus F.
-Sprites by: DevMaxD
-Architecture by: DevMaxD
-MusicCompiler by: Acchhhiiii
-Graphic Desing: marcoyolo2010
+- Created by: DevMaxD
+- Developed by: DevMaxD, Acchhhiiii, marcoyolo2010, Jhon0416
+- Assistant developers: Mao Murillo, Jesus F.
+- Sprites by: DevMaxD
+- Architecture by: DevMaxD
+- MusicCompiler by: Acchhhiiii
+- Graphic Desing: marcoyolo2010
 
-ObjectTeam: DevMaxD, marcoyolo2010
-KGLanguageTeam: DevMaxD, Acchhhiiii
-PublicBasementCompiler (To C#) Team: Acchhhiiii, Jhon0416
-PublicBasementCompiler (To Assembly & NativeScript) Team: Acchhhiiii, DevMaxD
-PhysicsTeam: Jesus F, Mao Murillo, DevMaxD, marcoyolo2010, Acchhhiiii, Jhon0416
+- ObjectTeam: DevMaxD, marcoyolo2010
+- KGLanguageTeam: DevMaxD, Acchhhiiii
+- PublicBasementCompiler (To C#) Team: Acchhhiiii, Jhon0416
+- PublicBasementCompiler (To Assembly & NativeScript) Team: Acchhhiiii, DevMaxD
+- PhysicsTeam: Jesus F, Mao Murillo, DevMaxD, marcoyolo2010, Acchhhiiii, Jhon0416
