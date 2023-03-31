@@ -1,0 +1,17 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Elements/VersatilCamera2D.gd" type="Script" id=1]
+
+[node name="ᴬVersatilCamera2D" type="Camera2D"]
+current = true
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_horizontal_guides_": [ -300.0 ],
+"_edit_vertical_guides_": [ -510.0, 510.0 ]
+}
+
+[node name="delta" type="Timer" parent="."]
+wait_time = 0.5
+one_shot = true
+
+[connection signal="timeout" from="delta" to="." method="_on_delta_timeout"]
