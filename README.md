@@ -14,9 +14,9 @@ We want 3 things:
 
 --------
 
-Version Pre-3.1 (2.98)
+Version Beta 3.0.02
 
-Added:
+Added (3.0.01):
 
 ᴬKinematicPlayer2D: Object that the player controls with sprites and everything already preconfigured
 
@@ -26,7 +26,9 @@ Added:
 
 ᴬCollect: Collectible
 
+Added (3.0.02):
 
+SaveDataInstance: Save the game
 
 -----
 
