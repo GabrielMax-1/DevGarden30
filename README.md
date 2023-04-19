@@ -30,9 +30,6 @@ Version Beta 3.0.02
 
 ᴬCollect: Collectible
 
-### Added (3.0.02):
-
-SaveDataInstance: Save the game
 -----
 
 # Credits
