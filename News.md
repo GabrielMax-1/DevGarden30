@@ -1,6 +1,29 @@
 # News
 News of the project
 
+# A new plugin for GODOT: aSmartSave (19/04/2023 - 12:00 AM COL - DevMax)
+We are released a new plugin for your project: aSmartSave.
+The plugin helps to save and load files easily.
+
+How work?:
+
+To save data:
+
+1. Put a STRING in "ToSave" var
+2. Put the namefile in "filetitle"
+3. With code, set "Signals" to 0
+
+To load data
+1. Put the file to read in "filetitle"
+2. With code, set "Signals" to 1
+3. The read is in "Result"
+
+In the week we are updating the plugin, fixing bugs, make more functional and easy
+
+Thanks for use our plugins and templates
+
+-DevMax
+
 # There is not a DevGarden Update (08/04/2023 - 12:30 PM COL - DevMax)
 When I was developing an easter egg of the "Test" level, my pc shut down when I was compiling (I didn't have it on battery), causing the project to not save correctly and to get corrupted...
 
