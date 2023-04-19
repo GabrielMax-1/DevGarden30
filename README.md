@@ -11,6 +11,10 @@ We want 3 things:
 3. Correct any technical/physical failure of the Godot engine
 
 
+--------
+Addons Releases:
+
+- aSmartSave (https://github.com/GabrielMax-1/DevGarden30/releases/tag/SmartSave)
 
 --------
 
